@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanBenallal/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HassanBenallal/Portfolio/issues"
+  },
+  "homepage": "https://github.com/HassanBenallal/Portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
